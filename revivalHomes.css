@@ -1,0 +1,8 @@
+.jumbotron{
+	background-image: url(http://res.cloudinary.com/speticus/image/upload/v1510093397/17310959_1799969046930525_4941452804019628091_o_jqcuct.jpg);
+	background-size: cover;
+	background-position: center;
+	/*min-height: 50em;*/
+	padding-top: 20%;
+    padding-bottom: 40%;
+}
